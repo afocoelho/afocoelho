@@ -5,10 +5,10 @@
 - 💞️ I’m looking to collaborate on data challenges
 
 ## 🛠  Tech Stack
-🌐   Python SQL Json
-🛢    PostgreSQL
-⚙️   Git GitHub GitLab Markdown
-🔧   Visual Studio Code Jupyter notebook
+🌐   Python SQL Json  
+🛢    PostgreSQL  
+⚙️   Git GitHub GitLab Markdown  
+🔧   Visual Studio Code Jupyter notebook  
 
 <!---
 afocoelho/afocoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
