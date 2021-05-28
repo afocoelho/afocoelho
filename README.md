@@ -9,7 +9,8 @@
 🛢    PostgreSQL  
 ⚙️   Git GitHub GitLab Markdown  
 🔧   Visual Studio Code Jupyter notebook  
-[![image](https://user-images.githubusercontent.com/3781306/119973998-14d95680-bfac-11eb-89e1-f26ec9aef953.png)](https://www.linkedin.com/in/antonio-fonseca-coelho/)
+(https://www.linkedin.com/in/antonio-fonseca-coelho/)
+![linkedin_logo](https://user-images.githubusercontent.com/3781306/119974853-1bb49900-bfad-11eb-91cc-07a45af22893.png)(https://www.linkedin.com/in/antonio-fonseca-coelho/)
 
 <!---
 afocoelho/afocoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
