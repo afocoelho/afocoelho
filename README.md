@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on data challenges
 
 # 🛠  Tech Stack
-🌐   [![python shiled](https://img.shields.io/badge/-Python-blue)](https://www.python.org/) SQL Json  
-🛢    PostgreSQL  
+🌐   [![python shiled](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)   
+🛢    SQL, Json (PostgresSQL, SQLlite, SparkSQL)  
 ⚙️   Git GitHub GitLab Markdown  
 🔧   Visual Studio Code Jupyter notebook  
 
