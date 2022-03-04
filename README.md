@@ -1,7 +1,7 @@
 # 💻  About Me
 - 👋 Hi, I’m António Coelho
 - 👀 I’m interested in Data-Science, Machine-Learning and Deep-learning.
-- 🌱 I’m currently working on my thesis which intents to predic churn in telecom
+- 🌱 I did a thesis in Telecom churn prediction, I'm currently working on a speech emotion recognition project
 - 💞️ I’m looking to collaborate on data challenges
 
 # 🛠  Tech Stack ( Under construction ) 
